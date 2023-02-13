@@ -9,11 +9,11 @@ require (
 	github.com/prometheus/client_model v0.2.0
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.32.0
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.32.0
-	go.opentelemetry.io/otel v1.7.0
+	go.opentelemetry.io/otel v1.13.0
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.7.0
 	go.opentelemetry.io/otel/exporters/stdout/stdouttrace v1.7.0
-	go.opentelemetry.io/otel/sdk v1.7.0
-	go.opentelemetry.io/otel/trace v1.7.0
+	go.opentelemetry.io/otel/sdk v1.13.0
+	go.opentelemetry.io/otel/trace v1.13.0
 	goa.design/goa/v3 v3.7.3
 	goa.design/model v1.7.6
 	golang.org/x/term v0.0.0-20220411215600-e5f449aeb171
@@ -48,7 +48,7 @@ require (
 	go.opentelemetry.io/proto/otlp v0.16.0 // indirect
 	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
 	golang.org/x/net v0.0.0-20220425223048-2871e0cb64e4 // indirect
-	golang.org/x/sys v0.0.0-20220429233432-b5fbb4746d32 // indirect
+	golang.org/x/sys v0.0.0-20220919091848-fb04ddd9f9c8 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	golang.org/x/tools v0.1.10 // indirect
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
