@@ -16,7 +16,7 @@ require (
 	go.opentelemetry.io/otel/trace v1.7.0
 	goa.design/goa/v3 v3.7.3
 	goa.design/model v1.7.6
-	golang.org/x/term v0.0.0-20220411215600-e5f449aeb171
+	golang.org/x/term v0.5.0
 	google.golang.org/grpc v1.46.0
 	google.golang.org/protobuf v1.28.0
 )
@@ -46,11 +46,11 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.7.0 // indirect
 	go.opentelemetry.io/otel/metric v0.30.0 // indirect
 	go.opentelemetry.io/proto/otlp v0.16.0 // indirect
-	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
-	golang.org/x/net v0.0.0-20220425223048-2871e0cb64e4 // indirect
-	golang.org/x/sys v0.0.0-20220429233432-b5fbb4746d32 // indirect
-	golang.org/x/text v0.3.7 // indirect
-	golang.org/x/tools v0.1.10 // indirect
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4 // indirect
+	golang.org/x/net v0.7.0 // indirect
+	golang.org/x/sys v0.5.0 // indirect
+	golang.org/x/text v0.7.0 // indirect
+	golang.org/x/tools v0.1.12 // indirect
 	golang.org/x/xerrors v0.0.0-20220411194840-2f41105eb62f // indirect
 	google.golang.org/genproto v0.0.0-20220429170224-98d788798c3e // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
